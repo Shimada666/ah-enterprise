@@ -36,7 +36,7 @@ export const Header = ({
           <Logo height={40} width={40} />
           <div>
             <div className="text-lg font-medium text-zinc-800 leading-none mb-1">
-              Startup Boilerplate
+              OpenDevin
             </div>
             <div className="text-xs leading-none text-zinc-500">
               NextJS Startup Template

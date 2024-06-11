@@ -4,6 +4,8 @@ const messages = {
     features: "特性",
     pricing: "定价",
     faq: "常见问题",
+    team: "团队",
+    contact: "联系我们",
   },
   footer: {
     home: "首页",

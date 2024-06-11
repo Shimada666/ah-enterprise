@@ -38,9 +38,12 @@ export default async function RootLayout({
 
   const headerLinks: LinkItem[] = [
     { label: t("header.home"), path: "/" },
-    { label: t("header.features"), path: "/#features" },
-    { label: t("header.pricing"), path: "/#pricing" },
-    { label: t("header.faq"), path: "/#faqs" },
+    // { label: t("header.features"), path: "/#features" },
+    { label: t("header.about"), path: "/about" },
+    // { label: t("header.pricing"), path: "/#pricing" },
+    // { label: t("header.faq"), path: "/#faqs" },
+    { label: t("header.team"), path: "/team" },
+    { label: t("header.contact"), path: "/contact" },
   ];
 
   const footerLinks: LinkItem[] = [

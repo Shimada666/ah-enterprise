@@ -4,7 +4,8 @@ import { getTranslations } from "next-intl/server";
 import { Link } from "~/navigation";
 import Image from "next/image";
 
-import HeroSectionImage from "~/assets/images/hero-section-image.webp";
+// import HeroSectionImage from "~/assets/images/hero-section-image.webp";
+import HeroSectionImage from "~/assets/images/open-devin.png";
 
 export const HeroSection = async () => {
   const t = await getTranslations("home.hero");

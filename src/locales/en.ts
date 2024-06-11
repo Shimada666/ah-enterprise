@@ -4,6 +4,9 @@ const messages = {
     features: "Features",
     pricing: "Pricing",
     faq: "FAQ",
+    team: "Team",
+    contact: "Contact",
+    about: "About"
   },
   footer: {
     home: "Home",
@@ -16,9 +19,9 @@ const messages = {
     description:
       "The startup boilerplate built with NextJS for launch your startup in days.",
     hero: {
-      heading: "Marketing website done with NextJS",
+      heading: "All Hands AI.",
       paragraph:
-        "Startup Boilerplate is a open-source starter template for marketing website & landing pages. Built with NextJS and TailwindCSS for launch your startup in days.",
+        "We build software development agents for everyone, in the open.",
       downloadButton: "Get boilerplate",
       githubRepo: "Github Repo",
     },
